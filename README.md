@@ -15,12 +15,3 @@ This is a lightweight, terminal-based chat program written in C that lets two pe
 Perfect for learning basic networking or testing out UDP communication.
 
 ---
-
-## 🛠 How to Use It
-
-### 1. Compile the Program
-```bash
-gcc -o chat chat.c
-
-### 2. Run it on both machines
-./chat <REMOTE_IPV4_ADDRESS>
